@@ -15,4 +15,4 @@ As tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/Curriculo_Portfolio)
+Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/Curriculo_Portfolio/blob/main/index.html)
