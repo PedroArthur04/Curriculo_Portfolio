@@ -1,6 +1,6 @@
 # PORTFÓLIO E CURRÍCULO
 
-Meu Portfólio e Currículo pessoal.
+Meu Portfólio e Currículo profissional.
 
 ## 🔨 Funcionalidades do projeto
 
