@@ -15,4 +15,4 @@ As tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/Curriculo_Portfolio/blob/main/index.html) ou [acessar o deploy](https://vercel.com/pedroarthur04s-projects/curriculo-portfolio)
+Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/Curriculo_Portfolio/blob/main/index.html) ou [acessar o deploy](https://curriculo-portfolio-gilt.vercel.app/)
