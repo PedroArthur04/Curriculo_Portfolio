@@ -52,13 +52,13 @@ strong {
     font-size: 1.2em;
 }
 
-.project-info a {
+a {
     text-decoration: none;
     color: #ffffff;
     font-weight: bold;
 }
 
-.project-info a:hover {
+a:hover {
     text-decoration: underline;
 }
 
